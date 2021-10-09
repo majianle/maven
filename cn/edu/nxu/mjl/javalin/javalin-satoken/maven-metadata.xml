@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.edu.nxu.mjl.javalin</groupId>
+  <artifactId>javalin-satoken</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210929015643</lastUpdated>
+  </versioning>
+</metadata>

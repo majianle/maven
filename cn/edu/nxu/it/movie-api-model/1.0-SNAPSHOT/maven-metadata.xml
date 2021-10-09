@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cn.edu.nxu.it</groupId>
+  <artifactId>movie-api-model</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20211007.100733</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20211007100733</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20211007.100733-1</value>
+        <updated>20211007100733</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20211007.100733-1</value>
+        <updated>20211007100733</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0-20211007.100733-1</value>
+        <updated>20211007100733</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
