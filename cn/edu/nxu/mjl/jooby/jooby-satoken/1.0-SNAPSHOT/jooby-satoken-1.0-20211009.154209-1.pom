@@ -35,7 +35,6 @@
             <groupId>cn.dev33</groupId>
             <artifactId>sa-token-servlet</artifactId>
             <version>${satoken.verion}</version>
-            <scope>provided</scope>
         </dependency>
 
         <dependency>
