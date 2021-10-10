@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>cn.edu.nxu.mjl</groupId>
+    <groupId>cn.edu.nxu.mjl.jooby</groupId>
     <artifactId>jooby-satoken-cas</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>jooby-satoken-cas</name>
@@ -26,9 +26,9 @@
         </dependency>
 
         <dependency>
-            <groupId>io.jooby</groupId>
+            <groupId>cn.edu.nxu.mjl.jooby</groupId>
             <artifactId>jooby-pac4j</artifactId>
-            <version>${jooby.version}</version>
+            <version>1.0-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
 
@@ -36,6 +36,13 @@
             <groupId>org.pac4j</groupId>
             <artifactId>pac4j-cas</artifactId>
             <version>${pac4j.version}</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>io.jooby</groupId>
+            <artifactId>jooby</artifactId>
+            <version>${jooby.version}</version>
             <scope>provided</scope>
         </dependency>
 

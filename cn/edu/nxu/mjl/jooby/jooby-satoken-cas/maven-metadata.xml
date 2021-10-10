@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>cn.edu.nxu.mjl</groupId>
+  <groupId>cn.edu.nxu.mjl.jooby</groupId>
   <artifactId>jooby-satoken-cas</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20211009034955</lastUpdated>
+    <lastUpdated>20211010073535</lastUpdated>
   </versioning>
 </metadata>
