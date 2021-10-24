@@ -74,5 +74,11 @@
     </plugins>
   </build>
 
+  <distributionManagement>
+    <repository>
+      <id>mjlRepository</id>
+      <url>file:E:/Programming/Tools/localRepository</url>
+    </repository>
+  </distributionManagement>
 
 </project>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>io.avaje</groupId>
-  <artifactId>avaje-http-javalin-generator</artifactId>
+  <artifactId>avaje-http-generator-parent</artifactId>
   <versioning>
     <versions>
       <version>1.12-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20211024052758</lastUpdated>
+    <lastUpdated>20211024052754</lastUpdated>
   </versioning>
 </metadata>
