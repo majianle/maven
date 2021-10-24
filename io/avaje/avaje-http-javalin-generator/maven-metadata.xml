@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.avaje</groupId>
+  <artifactId>avaje-http-javalin-generator</artifactId>
+  <versioning>
+    <versions>
+      <version>1.12-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20211024051932</lastUpdated>
+  </versioning>
+</metadata>

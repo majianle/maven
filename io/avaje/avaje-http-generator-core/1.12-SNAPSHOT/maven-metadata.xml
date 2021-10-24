@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.avaje</groupId>
+  <artifactId>avaje-http-generator-core</artifactId>
+  <version>1.12-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20211024.051932</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20211024051932</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.12-20211024.051932-1</value>
+        <updated>20211024051932</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.12-20211024.051932-1</value>
+        <updated>20211024051932</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
