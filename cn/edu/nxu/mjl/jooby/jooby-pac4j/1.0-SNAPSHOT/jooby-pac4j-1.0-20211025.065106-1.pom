@@ -16,20 +16,30 @@
         <maven.target.version>8</maven.target.version>
         <maven.source.version>8</maven.source.version>
     </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>io.jooby</groupId>
+                <artifactId>jooby-bom</artifactId>
+                <version>${jooby.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
     <dependencies>
 
         <!-- https://mvnrepository.com/artifact/io.jooby/modules -->
         <dependency>
             <groupId>io.jooby</groupId>
             <artifactId>jooby</artifactId>
-            <version>${jooby.version}</version>
             <scope>provided</scope>
         </dependency>
 
         <dependency>
             <groupId>com.google.code.findbugs</groupId>
             <artifactId>jsr305</artifactId>
-            <version>3.0.2</version>
             <scope>provided</scope>
         </dependency>
 
