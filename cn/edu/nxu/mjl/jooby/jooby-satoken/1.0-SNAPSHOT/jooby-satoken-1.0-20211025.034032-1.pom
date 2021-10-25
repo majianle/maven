@@ -13,12 +13,24 @@
 
     <properties>
         <jooby.version>2.11.0</jooby.version>
-        <satoken.verion>1.26.0</satoken.verion>
+        <satoken.verion>1.27.0</satoken.verion>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.parameters>true</maven.compiler.parameters>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>io.jooby</groupId>
+                <artifactId>jooby-bom</artifactId>
+                <version>${jooby.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
 
 
     <dependencies>
@@ -26,7 +38,6 @@
         <dependency>
             <groupId>io.jooby</groupId>
             <artifactId>jooby</artifactId>
-            <version>${jooby.version}</version>
             <scope>provided</scope>
         </dependency>
 
@@ -47,6 +58,11 @@
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
             <version>1.7.30</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.lettuce</groupId>
+            <artifactId>lettuce-core</artifactId>
         </dependency>
     </dependencies>
 
