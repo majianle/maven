@@ -13,7 +13,7 @@
 
     <properties>
         <jooby.version>2.11.0</jooby.version>
-        <satoken.verion>1.27.0</satoken.verion>
+        <satoken.verion>1.28.0</satoken.verion>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.parameters>true</maven.compiler.parameters>
