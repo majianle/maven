@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>cn.edu.nxu.mjl.jooby</groupId>
-  <artifactId>jooby-enjoy</artifactId>
+  <artifactId>jooby-lettuce-codec</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20211110.022826</timestamp>
+      <timestamp>20211110.021838</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20211110022826</lastUpdated>
+    <lastUpdated>20211110021838</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20211110.022826-1</value>
-        <updated>20211110022826</updated>
+        <value>1.0-20211110.021838-1</value>
+        <updated>20211110021838</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20211110.022826-1</value>
-        <updated>20211110022826</updated>
+        <value>1.0-20211110.021838-1</value>
+        <updated>20211110021838</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0-20211110.022826-1</value>
-        <updated>20211110022826</updated>
+        <value>1.0-20211110.021838-1</value>
+        <updated>20211110021838</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

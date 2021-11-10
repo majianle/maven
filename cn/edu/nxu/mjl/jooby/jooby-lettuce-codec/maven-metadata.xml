@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>cn.edu.nxu.mjl.jooby</groupId>
-  <artifactId>jooby-satoken</artifactId>
+  <artifactId>jooby-lettuce-codec</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20211110022648</lastUpdated>
+    <lastUpdated>20211110021838</lastUpdated>
   </versioning>
 </metadata>
