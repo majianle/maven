@@ -85,7 +85,7 @@
 
         <dependency>
             <groupId>cn.edu.nxu.mjl.jooby</groupId>
-            <artifactId>jooby-lettuce-codec</artifactId>
+            <artifactId>jooby-cache</artifactId>
             <version>${my-jooby.version}</version>
         </dependency>
     </dependencies>
