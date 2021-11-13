@@ -12,6 +12,7 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
         <jooby.version>2.11.0</jooby.version>
         <my-jooby.version>1.0-SNAPSHOT</my-jooby.version>
