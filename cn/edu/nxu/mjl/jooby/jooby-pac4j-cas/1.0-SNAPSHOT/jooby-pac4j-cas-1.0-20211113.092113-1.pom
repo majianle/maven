@@ -16,7 +16,6 @@
         <jooby.version>2.11.0</jooby.version>
         <my-jooby.version>1.0-SNAPSHOT</my-jooby.version>
         <pac4j.version>4.4.0</pac4j.version>
-        <satoken.version>1.26.0</satoken.version>
     </properties>
 
     <dependencyManagement>
