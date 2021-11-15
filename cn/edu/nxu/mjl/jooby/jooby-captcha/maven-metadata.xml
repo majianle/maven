@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>cn.edu.nxu.mjl.jooby</groupId>
-  <artifactId>my-jooby-bom</artifactId>
+  <artifactId>jooby-captcha</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20211115065743</lastUpdated>
+    <lastUpdated>20211115071548</lastUpdated>
   </versioning>
 </metadata>
