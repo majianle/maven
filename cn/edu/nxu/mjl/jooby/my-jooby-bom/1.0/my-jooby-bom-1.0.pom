@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>cn.edu.nxu.mjl.jooby</groupId>
+    <artifactId>my-jooby-bom</artifactId>
+    <version>1.0</version>
+    <packaging>pom</packaging>
+
+    <name>my-jooby-bom</name>
+
+    <properties>
+        <jooby.version>2.13.0</jooby.version>
+        <satoken.verion>1.28.0</satoken.verion>
+        <enjoy.version>4.9.21</enjoy.version>
+        <fastjson.version>1.2.75</fastjson.version>
+        <hutool.version>5.7.22</hutool.version>
+    </properties>
+
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>com.jfinal</groupId>
+                <artifactId>enjoy</artifactId>
+                <version>${enjoy.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>cn.dev33</groupId>
+                <artifactId>sa-token-core</artifactId>
+                <version>${satoken.verion}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>cn.dev33</groupId>
+                <artifactId>sa-token-servlet</artifactId>
+                <version>${satoken.verion}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>cn.dev33</groupId>
+                <artifactId>sa-token-servlet</artifactId>
+                <version>${satoken.verion}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.alibaba</groupId>
+                <artifactId>fastjson</artifactId>
+                <version>${fastjson.version}</version>
+            </dependency>
+
+            <dependency>
+            	<groupId>com.github.ben-manes.caffeine</groupId>
+            	<artifactId>caffeine</artifactId>
+            <version>2.9.3</version>
+        	</dependency>
+
+	        <dependency>
+	            <groupId>org.apache.commons</groupId>
+	            <artifactId>commons-pool2</artifactId>
+	            <version>2.11.1</version>
+	        </dependency>
+	        
+             <dependency>
+                <groupId>cn.hutool</groupId>
+                <artifactId>hutool-bom</artifactId>
+                <version>${hutool.version}</version>
+                <type>pom</type>
+            </dependency>
+        </dependencies>
+
+    </dependencyManagement>
+
+
+    <distributionManagement>
+        <repository>
+            <id>localRepository</id>
+            <url>file:E:/Programming/Project/maven-local-repository/maven</url>
+        </repository>
+    </distributionManagement>
+</project>
