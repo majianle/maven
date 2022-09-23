@@ -12,7 +12,7 @@
 
 
     <properties>
-        <jooby.version>2.13.0</jooby.version>
+        <jooby.version>2.16.1</jooby.version>
         <my-jooby.version>1.0</my-jooby.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
