@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>nxu.it</groupId>
-  <artifactId>movie-api-model</artifactId>
+  <artifactId>movie-api</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20221125030218</lastUpdated>
+    <lastUpdated>20221125030208</lastUpdated>
   </versioning>
 </metadata>
