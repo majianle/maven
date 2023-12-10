@@ -3,27 +3,27 @@
   <groupId>nxu.it</groupId>
   <artifactId>movie-api-service-mongo</artifactId>
   <versioning>
-    <lastUpdated>20231210093204</lastUpdated>
+    <lastUpdated>20231210094328</lastUpdated>
     <snapshot>
-      <timestamp>20231210.093204</timestamp>
+      <timestamp>20231210.094328</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.0-20231210.093204-1</value>
-        <updated>20231210093204</updated>
+        <value>2.0-20231210.094328-1</value>
+        <updated>20231210094328</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2.0-20231210.093204-1</value>
-        <updated>20231210093204</updated>
+        <value>2.0-20231210.094328-1</value>
+        <updated>20231210094328</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>2.0-20231210.093204-1</value>
-        <updated>20231210093204</updated>
+        <value>2.0-20231210.094328-1</value>
+        <updated>20231210094328</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
