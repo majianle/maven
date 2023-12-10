@@ -3,16 +3,16 @@
   <groupId>nxu.it</groupId>
   <artifactId>movie-api</artifactId>
   <versioning>
-    <lastUpdated>20231130081334</lastUpdated>
+    <lastUpdated>20231210082630</lastUpdated>
     <snapshot>
-      <timestamp>20231130.081334</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20231210.082630</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.0-20231130.081334-1</value>
-        <updated>20231130081334</updated>
+        <value>2.0-20231210.082630-2</value>
+        <updated>20231210082630</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
