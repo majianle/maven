@@ -3,27 +3,27 @@
   <groupId>nxu.it</groupId>
   <artifactId>movie-api-service-neo4j</artifactId>
   <versioning>
-    <lastUpdated>20231210082630</lastUpdated>
+    <lastUpdated>20231210084141</lastUpdated>
     <snapshot>
-      <timestamp>20231210.082630</timestamp>
+      <timestamp>20231210.084141</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.0-20231210.082630-1</value>
-        <updated>20231210082630</updated>
+        <value>2.0-20231210.084141-1</value>
+        <updated>20231210084141</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2.0-20231210.082630-1</value>
-        <updated>20231210082630</updated>
+        <value>2.0-20231210.084141-1</value>
+        <updated>20231210084141</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>2.0-20231210.082630-1</value>
-        <updated>20231210082630</updated>
+        <value>2.0-20231210.084141-1</value>
+        <updated>20231210084141</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
