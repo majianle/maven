@@ -3,33 +3,33 @@
   <groupId>nxu.it</groupId>
   <artifactId>movie-api-service</artifactId>
   <versioning>
-    <lastUpdated>20241206033339</lastUpdated>
+    <lastUpdated>20241206061844</lastUpdated>
     <snapshot>
-      <timestamp>20241206.033339</timestamp>
+      <timestamp>20241206.061844</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>3.0-20241206.033339-1</value>
-        <updated>20241206033339</updated>
+        <value>3.0-20241206.061844-1</value>
+        <updated>20241206061844</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>3.0-20241206.033339-1</value>
-        <updated>20241206033339</updated>
+        <value>3.0-20241206.061844-1</value>
+        <updated>20241206061844</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>3.0-20241206.033339-1</value>
-        <updated>20241206033339</updated>
+        <value>3.0-20241206.061844-1</value>
+        <updated>20241206061844</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>3.0-20241206.033339-1</value>
-        <updated>20241206033339</updated>
+        <value>3.0-20241206.061844-1</value>
+        <updated>20241206061844</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
